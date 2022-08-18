@@ -1,7 +1,9 @@
-👋 Hi, I’m @vpomerleau
+Hi 👋, I’m Valerie Pomerleau (@vpomerleau)
 
-👀 I’m interested in UX/UI design, accessibility, l10n
+Full-Stack Developer and accessibility advocate
 
-🌱 I’m currently learning web development @ BrainStation
+👀 I’m interested in increasing my knowledge of UX/UI design, a11y, l10n, i18n
+
+🌱 Graduated from BrainStation's Web Development Immersive Program
 
 💞️ I’m looking to collaborate on impactful projects that improve people's lives
